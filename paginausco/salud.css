@@ -1,0 +1,42 @@
+﻿body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    text-align: center;
+    padding: 35px;
+    background-color: #8F141B;
+
+}
+.img-salud{
+	width: 342px;
+	height: 111px;
+}
+.icon{
+    margin: 0 0 0 25px;
+}
+.container{
+    margin: 50px 150px 105px 300px;
+    text-align: left;
+}
+.first-content{
+	border-bottom: solid #8F141B;
+}
+.second-content{
+	text-align: justify;
+	border-bottom: solid #8F141B;
+}
+.third-content{
+	border-bottom: solid #8F141B;
+}
+.four-content{
+	text-align: justify;
+	border-bottom: solid #8F141B;
+}
+
+footer{
+    margin-top: auto;
+    background-color: #F2F4F5;
+    text-align: center;
+    padding-bottom: 25px;
+}
